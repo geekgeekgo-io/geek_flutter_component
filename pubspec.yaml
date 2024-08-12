@@ -1,0 +1,17 @@
+# File: flutter_logger/pubspec.yaml
+
+name: geek_flutter_component
+description: A reusable flutter component for geek project
+version: 1.0.1
+homepage: https://github.com/geekgeekgo-io/geek_flutter_component
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
